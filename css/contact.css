@@ -1,0 +1,16 @@
+#contact {
+    background-image: url(../assets/contact1.jpg);
+    /* opacity: .6; */
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+#contact h1 {
+    font-family: 'Raleway', sans-serif;
+}
+
+#contact .container h2 {
+    text-align: center;
+}

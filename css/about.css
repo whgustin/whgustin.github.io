@@ -1,0 +1,30 @@
+#about {
+    margin: 0px;
+    padding: 100px;
+    background-color: whitesmoke;
+
+}
+
+#about h1 {
+    font-family: 'Raleway', sans-serif;
+}
+
+#about .container h2 {
+    font-family: 'Raleway', sans-serif;
+    padding: 8px;
+
+}
+
+#aboutMe {
+    text-align: left;
+}
+
+#about .container .row {
+
+}
+
+#about .container .row .col-sm-6 {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+
